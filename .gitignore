@@ -1,0 +1,20 @@
+# Binaries and objects generated from kernel module compilation
+*.cmd
+*.o
+*.order
+*.symvers
+*.mod
+*.ko
+*.mod.c
+
+Module.symvers
+modules.order
+.tmp_versions/
+build/
+
+# Common C/C++ build artifacts to ignore
+*~
+*.stackdump
+*.bin
+*.out
+*.elf
